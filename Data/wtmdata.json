@@ -1,0 +1,253 @@
+﻿[
+    {
+        "algo":  "Ethash",
+        "id":  "eth",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Equihash24x5",
+        "id":  "zh",
+        "factor":  1
+    },
+    {
+        "algo":  "CryptoNightHeavy",
+        "id":  "cnh",
+        "factor":  1
+    },
+    {
+        "algo":  "CryptoNightGPU",
+        "id":  "cng",
+        "factor":  1
+    },
+    {
+        "algo":  "CryptoNightR",
+        "id":  "cnr",
+        "factor":  1
+    },
+    {
+        "algo":  "CryptoNightFast",
+        "id":  "cnf",
+        "factor":  1
+    },
+    {
+        "algo":  "Equihash21x9",
+        "id":  "eqa",
+        "factor":  1
+    },
+    {
+        "algo":  "CuckooCycle",
+        "id":  "cc",
+        "factor":  1
+    },
+    {
+        "algo":  "Cuckarood29",
+        "id":  "cr29",
+        "factor":  1
+    },
+    {
+        "algo":  "Cuckaroom29",
+        "id":  "cm29",
+        "factor":  1
+    },
+    {
+        "algo":  "Cuckatoo31",
+        "id":  "ct31",
+        "factor":  1
+    },
+    {
+        "algo":  "Cuckatoo32",
+        "id":  "ct32",
+        "factor":  1
+    },
+    {
+        "algo":  "EquihashR25x5x3",
+        "id":  "eqb",
+        "factor":  1
+    },
+    {
+        "algo":  "RandomX",
+        "id":  "rmx",
+        "factor":  1
+    },
+    {
+        "algo":  "NeoScrypt",
+        "id":  "ns",
+        "factor":  1000
+    },
+    {
+        "algo":  "X16rv2",
+        "id":  "x16r",
+        "factor":  1000000
+    },
+    {
+        "algo":  "PHI2",
+        "id":  "phi2",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Equihash24x7",
+        "id":  "eqz",
+        "factor":  1
+    },
+    {
+        "algo":  "EquihashR25x4",
+        "id":  "zlh",
+        "factor":  1
+    },
+    {
+        "algo":  "ProgPoW",
+        "id":  "ppw",
+        "factor":  1000000
+    },
+    {
+        "algo":  "X25x",
+        "id":  "x25x",
+        "factor":  1000000
+    },
+    {
+        "algo":  "MTP",
+        "id":  "mtp",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Lyra2RE3",
+        "id":  "lrev3",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Allium",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Bcd",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Bitcore",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Blake2s",
+        "factor":  1000000
+    },
+    {
+        "algo":  "CryptoNightFast2",
+        "factor":  1
+    },
+    {
+        "algo":  "CryptoNightHeavyTube",
+        "factor":  1
+    },
+    {
+        "algo":  "CryptoNightHeavyXhv",
+        "factor":  1
+    },
+    {
+        "algo":  "CryptoNightLiteV7",
+        "factor":  1
+    },
+    {
+        "algo":  "CryptoNightV7",
+        "factor":  1
+    },
+    {
+        "algo":  "CryptoNightV8",
+        "factor":  1
+    },
+    {
+        "algo":  "Cuckaroo29",
+        "factor":  1
+    },
+    {
+        "algo":  "Cuckaroo31",
+        "factor":  1
+    },
+    {
+        "algo":  "Energi",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Equihash16x5",
+        "factor":  1000
+    },
+    {
+        "algo":  "Hex",
+        "factor":  1000000
+    },
+    {
+        "algo":  "KawPOW",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Keccak",
+        "factor":  1000000
+    },
+    {
+        "algo":  "KeccakC",
+        "factor":  1000000
+    },
+    {
+        "algo":  "LBK3",
+        "factor":  1000
+    },
+    {
+        "algo":  "Lyra2RE2",
+        "factor":  1000
+    },
+    {
+        "algo":  "Lyra2z",
+        "factor":  1000000
+    },
+    {
+        "algo":  "m7m",
+        "factor":  1000
+    },
+    {
+        "algo":  "PHI",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Randomhash",
+        "factor":  1000
+    },
+    {
+        "algo":  "Skunk",
+        "factor":  1000000
+    },
+    {
+        "algo":  "SonoA",
+        "factor":  1000
+    },
+    {
+        "algo":  "Tensority",
+        "factor":  1
+    },
+    {
+        "algo":  "UbqHash",
+        "factor":  1000000
+    },
+    {
+        "algo":  "X16r",
+        "factor":  1000000
+    },
+    {
+        "algo":  "X16rt",
+        "factor":  1000000
+    },
+    {
+        "algo":  "X16s",
+        "factor":  1000000
+    },
+    {
+        "algo":  "X17",
+        "factor":  1000
+    },
+    {
+        "algo":  "X22i",
+        "factor":  1000000
+    },
+    {
+        "algo":  "Yescrypt",
+        "factor":  1
+    }
+]
